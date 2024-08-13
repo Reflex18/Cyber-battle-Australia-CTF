@@ -1,2 +1,0 @@
-# Cyber-battle-Australia-CTF
- 
