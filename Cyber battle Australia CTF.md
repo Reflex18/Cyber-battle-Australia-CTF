@@ -9,4 +9,4 @@ Here is a few that used files and not hosted so it could be done after the event
 ## CTF links
 
 - [Secret Functions](Secret%20functions)
-- [Challenge.class](challenge.class)
+- [REGULAR SCRIPTING](REGULAR_SCRIPTING)
