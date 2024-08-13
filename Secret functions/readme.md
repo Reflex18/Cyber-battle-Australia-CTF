@@ -6,7 +6,7 @@ This challenge revolved around a file that was provided, within the instructions
 
 On inspecting it with Ghidra I found that the main function has a few variables that are holding the data to the password. This is because it appears to request the data from iVar1 on line 37. The ivar1 information is contained in the function called decrypt.
 
-![[Ghidra main]](Ghidr%20main.png)
+![[Ghidra main]](Ghidra%20main.png)
 
 Knowing this information I then loaded up the GDB
 
